@@ -91,3 +91,4 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 <img width="1919" height="861" alt="Screenshot 2025-11-14 103633" src="https://github.com/user-attachments/assets/7db1a3df-3f02-4382-b115-2240e9d8ac01" />
 
 ### RESULT:
+Design and deploy a prototype application for image captioning by utilizing the BLIP image-captioning model and integrating it with the Gradio UI framework for user interaction and evaluation is successfully completed
